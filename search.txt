@@ -1,0 +1,4 @@
+org:Example
+www.example.com
+www.example.co.uk
+example.com
